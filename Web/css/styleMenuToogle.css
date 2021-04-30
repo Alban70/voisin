@@ -1,0 +1,89 @@
+/*body {
+    background-color: #fa8072;
+    text-align: center;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    color: #fff;
+}*/
+/*a {
+    color: #fff;
+}*/
+label {
+    background-color: inherit;
+    cursor: pointer;
+}
+#content {
+    background-color: inherit;
+}
+#menu li
+{
+    /*padding: 0.2vh 0.2vw 0;*/
+    padding: 2vh 0;
+    font-size: 22px;
+    list-style-type: none;
+    list-style-image: none;
+}
+label, #content {
+    height: 20px;
+    width: 800px;
+    margin-botton: 10px;
+    /*border: 1px solid #fff;
+    display: inline-block;*/
+    color: white;
+    font-size: 3.9vw; font-weight: bold;
+}
+#menu li a {
+    height: 20px;
+    width: 800px;
+    margin-botton: 10px;
+    /*border: 1px solid #fff;
+    display: inline-block;*/
+    color: white;
+    font-size: 3.9vw; font-weight: bold;
+    padding: 0 4vw;
+}
+#menu-accordion-toggle-referencement, #menu-accordion-toggle-controles, #menu-accordion-toggle2 {
+    display: none;
+}
+#menu-accordion-referencement,#menu-accordion-controles, #menu-accordion2 {
+    background-color: inherit;
+    width: 780px;
+    overflow: hidden;
+    max-height: 0;
+    padding: 0;
+    /*margin: 0 auto 1vh;*/
+    margin: 0;
+    -webkit-transition: all 0.3s ease;
+}
+/*#menu-accordion-toggle2 {
+    display: none;
+}*/
+/*#menu-accordion2 {
+    background-color: inherit;
+    width: 780px;
+    overflow: hidden;
+    max-height: 0;
+    padding: 0;
+    margin: 0 auto;
+    -webkit-transition: all 0.3s ease;
+}*/
+#menu-accordion-referencement li, #menu-accordion2 li {
+    background-color: inherit;
+    display:inline-block;
+    /*margin-bottom: 0.2vh;*/
+    padding: 0.2vh 2vw;
+    width: 100%;
+}
+#menu-accordion-referencement li a, #menu-accordion2 li a {
+    font-size: 3.2vw; font-weight: bold;
+}
+#menu-accordion-toggle-referencement:checked + #menu-accordion-referencement {
+    max-height: 100px;
+}
+
+#menu-accordion-toggle2:checked + #menu-accordion2 {
+    max-height: 150px;
+}
+label::before { content: "\f107"; font-family: "faSolid"; color: red; padding: 0 1vw; }
+@media screen and (min-width:1024px){
+
+}

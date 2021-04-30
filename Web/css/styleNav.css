@@ -1,0 +1,205 @@
+.myheader2 {height:8vh;z-index:999;position:relative;}
+.myheader2.fixed {position:fixed;width:100%;top:0;left:0;}
+
+
+
+/*section menu header*/
+.menu-menu-header-container{
+    /*z-index:1000000;*/
+    /*width:100%;*/
+    margin-top: 8vh;
+    width:2%;
+    background:#f1f1f1;
+    /*position:absolute;*/
+    display: none;
+}
+.menu-menu-header-container ul{
+    margin: 0 0 0 -150px;
+    padding:0;
+    list-style-type: none;
+    list-style-image: none;
+    width: 80%;
+    height: auto;
+    position:absolute;
+    z-index:1000000;
+}
+.menu-menu-header-container li {
+    background-color: inherit;
+    display:inline-block;
+    margin-bottom: 0.2vh;
+    width: 100%;
+}
+.menu-menu-header-container a {
+    display:block;
+    text-align: center;
+    line-height: 8.1vh;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #fff;
+    background: #4A89DC;
+    text-decoration: none;
+    font-weight:bold;
+    font-size:2.9vw;}
+
+
+.menu-menu-header-container li:hover a {
+    background: #1776d2;
+}
+.menu-menu-header-container li:hover ul a {
+    background: white;
+    color: #2f3036;
+}
+.menu-menu-header-container li:hover ul a:hover {
+    background: #1776d2;
+    color: #fff;
+}
+.menu-menu-header-container ul ul{
+    width: 100%;
+    background: #1776d2;
+    /*display: block;*/
+    display: none;
+    height: auto;
+    margin: 0.2% 0;
+}
+.menu-menu-header-container ul ul li {
+    display: inline-block;
+    background: #1776d2;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    line-height: 5.5vh;
+    margin: 0;
+}
+.menu-menu-header-container ul ul li a{
+    text-decoration:none;
+    margin: 0;
+    color:white;
+    font-weight:bold;
+    font-size:2.9vw;
+    line-height: 8.5vh;
+    min-width: 100px;
+    padding: 0 20px;
+}
+.menu-menu-header-container ul li  > ul{
+    display: none;
+}
+.menu-menu-header-container ul li:hover > ul{
+    display: block;
+}
+/*section menu header*/
+
+.customize {
+    width: 40vw;
+    border: solid 2px #1776d2;
+    border-radius: 7px;
+    line-height: 1.8vh;
+    margin: 0 0 0 -7vw;
+    padding: 1vh 0;
+}
+
+.customize a {
+    text-decoration: none;
+    font-size: 1.6vh;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.customize a:hover {
+    color: #ffbb00;
+}
+.flex .top{
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: white;
+    height: 8vh;
+    justify-content: space-between;
+    align-items: center;
+}
+/*.hpTop{
+    background-color: white;
+    height: 8vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}*/
+
+.Top img {
+    width: 40%;
+}
+@media screen and (min-width:1024px){
+    .myheader2 {height:6vh;}
+    .myheader2.fixed {position:fixed;width:100%;top:0;left:0;}
+
+    .flex .top{
+        height: 6vh;
+    }
+    .Top img {
+        width: 80%;
+    }
+    .customize {
+        width: 20vw;
+        border: solid 2px #1776d2;
+        border-radius: 7px;
+        line-height: 1.8vh;
+        margin: 0 0.3vw 0 0;
+        padding: 1vh 0;
+    }
+
+    /*section menu header*/
+    .menu-menu-header-container{
+        display: block;
+        margin: 0 40vw 4.5vh 0;
+        width: 10vw;
+        /*position: relative;
+        z-index: 0;*/
+    }
+    .menu-menu-header-container ul{
+        margin: 0;
+        height: auto;
+        /*position: absolute;
+        z-index: 1000000;*/
+        width: auto;
+    }
+    .menu-menu-header-container li {display: inline-block; background-color: red; width: auto; height: auto; /*padding:1vh 0;*/ margin: 0 1vw 0 0;}
+    .menu-menu-header-container a {text-align: center; text-transform: uppercase; text-decoration:none;  margin: 0; color:#4A89DC; padding: 0; font-size: 0.7vw; line-height: 4vh; background-color: white;}
+    .menu-menu-header-container ul li a:hover{
+        color:white;
+    }
+
+    .menu-menu-header-container ul ul{
+        width: 30%;
+        min-width: 100px;
+        background: red;
+        display: block;
+        height: auto;
+        margin: 0;
+    }
+    .menu-menu-header-container ul ul li {
+        display: inline-block;
+        background: red;
+        width: 100%;
+        height: 100%;
+        padding: 0;
+
+    }
+    .menu-menu-header-container ul ul li:hover > ul{
+        margin: -50px 0 0 280px;
+        width: 100%;
+    }
+    .menu-menu-header-container ul ul li a{
+        text-transform: none; text-decoration:none;  margin: 0; color:white;  font-size: 0.6vw; line-height: 5.5vh;
+    }
+    .menu-menu-header-container ul li  > ul{
+        display: none;
+    }
+    .menu-menu-header-container ul li:hover > ul{
+        display: block;
+    }
+    /*section menu header*/
+
+
+
+}

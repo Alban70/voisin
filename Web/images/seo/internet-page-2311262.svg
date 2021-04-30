@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750" height="500" version="1.1" viewBox="0 0 750.00001 500.00001" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="l" overflow="visible" orient="auto">
+   <path transform="scale(.2) translate(7.4 1)" d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z" fill="#555" fill-rule="evenodd" stroke="#555" stroke-width="1pt"/>
+  </marker>
+  <marker id="k" overflow="visible" orient="auto">
+   <path transform="scale(.2) translate(7.4 1)" d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z" fill="#555" fill-rule="evenodd" stroke="#555" stroke-width="1pt"/>
+  </marker>
+  <marker id="j" overflow="visible" orient="auto">
+   <path transform="scale(.4) translate(7.4 1)" d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z" fill="#555" fill-rule="evenodd" stroke="#555" stroke-width="1pt"/>
+  </marker>
+  <marker id="i" overflow="visible" orient="auto">
+   <path transform="scale(.4) translate(7.4 1)" d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z" fill="#555" fill-rule="evenodd" stroke="#555" stroke-width="1pt"/>
+  </marker>
+  <marker id="g" overflow="visible" orient="auto">
+   <path transform="scale(.4) translate(7.4 1)" d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z" fill="#555" fill-rule="evenodd" stroke="#555" stroke-width="1pt"/>
+  </marker>
+  <marker id="h" overflow="visible" orient="auto">
+   <path transform="scale(.2) translate(7.4 1)" d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z" fill="#555" fill-rule="evenodd" stroke="#555" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <g transform="translate(0 -552.36)">
+  <rect y="552.36" width="750" height="500" fill="#fcfcfc"/>
+  <path transform="matrix(.86603 0 0 1 4.645 0)" d="m34.671 573.98 15.073 26.107h-30.146z" fill="#555"/>
+  <path transform="matrix(0 .86603 -1 0 1302.4 987.66)" d="m34.671 573.98 15.073 26.107h-30.146z" fill="#555"/>
+ </g>
+ <path d="m34.671 73.252c25.782 14.885 20.737 224.74 98.41 291.89 140.99 121.89 550.07 80.458 550.07 100.18h-648.48z" fill="#00d692" fill-rule="evenodd"/>
+ <path d="m130.42 465.33v-392.08" fill="none" stroke="#000" stroke-dasharray="8, 8" stroke-opacity=".35638" stroke-width="2"/>
+ <path d="m432.44 465.33v-392.08" fill="none" stroke="#000" stroke-dasharray="8, 8" stroke-opacity=".35638" stroke-width="2"/>
+ <path d="m34.671 34.671v430.66h680.66" fill="none" stroke="#555" stroke-width="10"/>
+ <path d="m94.044 56.395-46.178 48.806" fill="none" marker-end="url(#g)" marker-start="url(#l)" stroke="#555" stroke-linecap="round" stroke-width="2"/>
+ <path d="m288.34 378.45-72.435 32.607" fill="none" marker-end="url(#j)" marker-start="url(#h)" stroke="#555" stroke-linecap="round" stroke-width="2"/>
+ <path d="m581.12 416.6-71.09 39.355" fill="none" marker-end="url(#i)" marker-start="url(#k)" stroke="#555" stroke-linecap="round" stroke-width="2"/>
+ <rect x="74.969" y="31.109" width="114.89" height="13.308" fill="#f0f0f0"/>
+ <rect x="206.94" y="333.2" width="184.54" height="13.308" fill="#f0f0f0"/>
+ <rect x="265.05" y="354.51" width="68.315" height="13.308" fill="#f0f0f0"/>
+ <rect x="525.64" y="349.64" width="128.65" height="13.308" fill="#f0f0f0"/>
+ <rect x="503.15" y="370.95" width="173.63" height="13.308" fill="#f0f0f0"/>
+ <rect x="558.47" y="392.26" width="62.992" height="13.308" fill="#f0f0f0"/>
+</svg>

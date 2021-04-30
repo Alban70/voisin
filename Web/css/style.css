@@ -1,0 +1,80 @@
+.top{
+    background-color: #712F79; justify-content: space-between; align-items: center;
+}
+.txt_titre_baseline{
+    color: white;
+    /*font-weight: bold;*/
+    text-align: justify;
+    font-size: 2.1vh;
+    text-decoration: blink;
+    margin:0;
+    line-height: 2.7vh;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 0 0 1px #000;
+}
+.nuage{
+    margin: 5vh 0 0;
+}
+.creerVotreSite{
+    /*background-color: lightgray;*/ justify-content: space-around;
+}
+.card-container-metier{
+    /*position: relative;*/
+    width: 96%;
+    margin: 1% auto 2%;
+    height: auto;
+    align-items: center;
+}
+/*.myheaderParallax {top:0;left:0;}
+.myheaderParallax.fixed {position:fixed;width:100%;top:0;left:0;}*/
+/*.card-container-card {
+    width: 96%;
+    margin: 1% auto 2%;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    align-items: center;
+}
+.card-content-card {
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: auto;
+    padding: 10px;
+    width: 100%;
+    height: auto;
+}
+.card-content-card p {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 0 0 1px #000;
+    font-size: 1.9vh;
+}*/
+@media screen and (min-width:1024px){
+    /*.card-container-card {
+        width: auto;
+        margin: 1% 0.5% 1%;
+    }*/
+    .card-container-metier{
+        width: 20%;
+        margin: 1% 0.5%;
+        padding: 0 3% 0;
+        background-color: white;
+
+    }
+    .txt_titre_baseline{
+        font-size: 4vh;
+        line-height: 3.5vh;
+    }
+    .nuage{
+        margin: -25vh 0 0;
+    }
+    .creerVotreSite{
+        background-color: inherit;
+    }
+    .card-container-multi {
+        width: auto;
+        margin: 1% 0.5% 1%;
+        height: auto;
+    }
+}

@@ -1,0 +1,244 @@
+/*
+#ffc107 jaune
+#4A89DC bleu clair
+#1776d2 bleu foncé
+#43cb83 vert
+#fff blanc
+#323232 noir
+#cacaca gris
+#FF8155 orange
+#a79e70 or
+#005a8b bleu tres fonce
+*/
+.parallax{
+    background-repeat: no-repeat;
+    background-position: center;
+    /*overflow: hidden;*/
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 400px;
+}
+/****************************/
+/* FontAwesome 5.5.0        */
+/****************************/
+@font-face {
+    font-family: "faBrand";
+    src : url("../fonts/fa-brands-400.eot");
+    src : url("../fonts/fa-brands-400.eot") format("embedded-opentype"),
+    url("../fonts/fa-brands-400.woff2") format("woff2"),
+    url("../fonts/fa-brands-400.woff") format("woff"),
+    url("../fonts/fa-brands-400.ttf") format("truetype"),
+    url("../fonts/fa-brands-400.svg") format("svg");
+}
+
+@font-face {
+    font-family: "faRegular";
+    src : url("../fonts/fa-regular-400.eot");
+    src : url("../fonts/fa-regular-400.eot") format("embedded-opentype"),
+    url("../fonts/fa-regular-400.woff2") format("woff2"),
+    url("../fonts/fa-regular-400.woff") format("woff"),
+    url("../fonts/fa-regular-400.ttf") format("truetype"),
+    url("../fonts/fa-regular-400.svg") format("svg");
+}
+
+@font-face {
+    font-family: "faSolid";
+    src : url("../fonts/fa-solid-900.eot");
+    src : url("../fonts/fa-solid-900.eot") format("embedded-opentype"),
+    url("../fonts/fa-solid-900.woff2") format("woff2"),
+    url("../fonts/fa-solid-900.woff") format("woff"),
+    url("../fonts/fa-solid-900.ttf") format("truetype"),
+    url("../fonts/fa-solid-900.svg") format("svg");
+}
+
+/****************************/
+/* Icons                    */
+/****************************/
+.ico-twitter::before { content: "\f095"; font-family: "faSolid"; }
+.ico-mail::before { content: "\f0e0"; font-family: "faSolid"; }
+.ico-schedules::before { content: "\f017"; font-family: "faSolid"; }
+.ico-twitter::before { content: "\f099"; font-family: "faBrand"; }
+.ico-linkedin::before { content: "\f0e1"; font-family: "faBrand"; }
+.ico-facebook::before { content: "\f39e"; font-family: "faBrand"; }
+.ico-customize::before { content: "\f072"; font-family: "faSolid"; }
+.ico-customize:hover::before{ content: "\f5b0"; font-family: "faSolid"; }
+.ico-edit:before{ content: "\f044"; font-family: "faSolid"; }
+.ico-delete:before{ content: "\f2ed"; font-family: "faSolid"; }
+.ico-logout:before{ content: "\f2f5"; font-family: "faSolid"; }
+
+.txt_titre{
+    color: white;
+    /*font-weight: bold;*/
+    text-align: center;
+    font-size: 2.5vh;
+    text-decoration: blink;
+    margin:0;
+    line-height: 2.8vh;
+}
+.txt_slogan{
+    color: gray;
+    font-style:italic;
+    /*font-weight: bold;*/
+    text-align: justify;
+    font-size: 1.8vh;
+    text-decoration: blink;
+}
+.contentMobile{
+    display: block;
+}
+.contentDesktop{
+    display: none;
+}
+.flex{
+    display: flex;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+.flex-row{
+    flex-direction: row;
+    flex-wrap: nowrap;
+    background-color: inherit;
+    height: 8vh;
+    justify-content: space-between;
+    align-items: center;
+}
+.flex_column{
+    flex-wrap: wrap;
+    flex-direction: column ;
+    justify-content: space-between;
+    height: 100%;
+}
+.flex_switch_wrap{
+    justify-content: space-around;
+    /*justify-content: space-between;*/
+    flex-wrap: wrap;
+    flex-direction: column ;
+}
+/****************************/
+/* card-container : début   */
+/****************************/
+.card-container {
+    /*position: relative;*/
+    width: 96%;
+    margin: 1% auto 2%;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    align-items: center;
+}
+.card-content {
+    /*position: absolute;*/
+    bottom: 0;
+    /*background-color: rgba(0, 0, 0, 0.5);*/
+    margin: auto;
+    padding: 10px;
+    width: 100%;
+    height: auto;
+}
+.card-content p {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 0 0 1px #000;
+    font-size: 1.5vh;
+}
+/****************************/
+/* card-container : fin     */
+/****************************/
+
+/****************************/
+/* card-container-absolute : début   */
+/****************************/
+.card-container-absolute {
+    position: relative;
+    width: 96%;
+    margin: 1% auto 2%;
+    height: 550px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.card-content-absolute {
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: auto;
+    padding: 10px;
+    width: 100%;
+    height: auto;
+}
+.card-content-absolute p {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 0 0 1px #000;
+    font-size: 1.9vh;
+}
+/****************************/
+/* card-container-absolute : fin     */
+/****************************/
+
+@media screen and (min-width:1024px){
+    .txt_titre{
+        line-height: 3.5vh;
+    }
+    .contentMobile{
+        display: none;
+    }
+    .contentDesktop{
+        display: block;
+    }
+    .flex_switch_wrap{
+        flex-wrap: nowrap;
+        flex-direction: row;
+
+    }
+    /****************************/
+    /* card-container : début   */
+    /****************************/
+    .card-container {
+        width: auto;
+        margin: 1% 0.5% 1%;
+        height: auto;
+    }
+    .card-container-30{
+        width: 30%;
+        margin: auto;
+        height: auto;
+    }
+    .card-container-50{
+        /*width: 50%;
+        margin: 1% 1% 2%;*/
+        width: 50%;
+        margin: auto;
+        height: 100%;
+    }
+    .card-container-80{
+        /*width: 50%;*/
+        /*margin: 1% 1% 2%;*/
+        width: 80%;
+        margin: 2vh auto 0;
+        height: auto;
+    }
+    /*.card-content {
+        margin: 2vh 0 0;
+    }*/
+    .card-content p {
+        font-size: 1.5vh;
+    }
+    /****************************/
+    /* card-container : fin     */
+    /****************************/
+
+    /****************************/
+    /* card-container-absolute : début   */
+    /****************************/
+    .card-container-absolute {
+        width: auto;
+        margin: 1% 1% 2%;
+    }
+    .card-content-absolute p {
+        font-size: 1.4vh;
+    }
+    /****************************/
+    /* card-container-absolute : fin     */
+    /****************************/
+}

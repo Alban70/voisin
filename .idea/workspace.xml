@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2240a7ab-2901-45cc-b903-5aa6ff0b7a95" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="myHomeContent.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vue/Home/myHomeContent.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myCardMetier.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vue/Home/myCardMetier.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1212">
+              <caret line="71" column="81" lean-forward="true" selection-start-line="71" selection-start-column="81" selection-end-line="71" selection-end-column="81" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <marker date="1563347632032" expanded="false" signature="195:336" ph="..." />
+                <marker date="1563347632032" expanded="false" signature="523:568" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myCard.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vue/Home/myCard.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <marker date="1563347151277" expanded="false" signature="1700:1779" ph="..." />
+                <marker date="1563347151277" expanded="false" signature="1957:2006" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myCardCms.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Vue/Home/myCardCms.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myCardMult.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vue/Home/myCardMult.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topNav.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vue/header/topNav.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.html.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vue/layout.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="102" lean-forward="false" selection-start-line="27" selection-start-column="102" selection-end-line="27" selection-end-column="102" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="50" column="21" lean-forward="false" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styleGenerique.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web/css/styleGenerique.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3332">
+              <caret line="196" column="21" lean-forward="false" selection-start-line="196" selection-start-column="21" selection-end-line="196" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>col_80_large</find>
+      <find>contentCacher</find>
+      <find>content</find>
+      <find>ico-twitter</find>
+      <find>contentDesktop</find>
+      <find>contentMobile</find>
+      <find>logo1</find>
+      <find>@</find>
+      <find>content_flex_row</find>
+      <find>customize</find>
+      <find>flex</find>
+      <find>.txt_slogan</find>
+      <find>.txt_menu_white_centre</find>
+      <find>uppercase</find>
+      <find>flex_switch_wrap</find>
+      <find>page</find>
+      <find>ribbon</find>
+      <find>top</find>
+      <find>card-container</find>
+      <find>myheader2</find>
+      <find>txt_sloga</find>
+      <find>card-content-absolute</find>
+      <find>header-container</find>
+      <find>.card-container-80</find>
+      <find>txt_slogan</find>
+      <find>border</find>
+      <find>view_footer</find>
+      <find>myFooter</find>
+      <find>card-container-multi</find>
+      <find>.card-content</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Vue/seo_maillage-interne/myAncresLien.php" />
+        <option value="$PROJECT_DIR$/Vue/seo_balise_title/myBaliseTitle.php" />
+        <option value="$PROJECT_DIR$/Vue/seo_analyseContenu/myContenu.php" />
+        <option value="$PROJECT_DIR$/Vue/seo-audit-onpage/myOnePageCard.php" />
+        <option value="$PROJECT_DIR$/Vue/seo-audit-onpage/myFacteursOnPage.php" />
+        <option value="$PROJECT_DIR$/Vue/seo-audit-offpage/myFacteursOffPage.php" />
+        <option value="$PROJECT_DIR$/Vue/seo-audit-offpage/myOffPageCard.php" />
+        <option value="$PROJECT_DIR$/Vue/seo_local/mySeoLocal.php" />
+        <option value="$PROJECT_DIR$/Vue/seo_rs/myRs.php" />
+        <option value="$PROJECT_DIR$/Vue/seo_backlinking/myBacklinking.php" />
+        <option value="$PROJECT_DIR$/Vue/seo-audit-techniques/myFacteursTechnique.php" />
+        <option value="$PROJECT_DIR$/Vue/seo_mobileFirst/myMobileFirst.php" />
+        <option value="$PROJECT_DIR$/Vue/seo_semantique/mySemantique.php" />
+        <option value="$PROJECT_DIR$/Vue/seo_fichiers/myFichiers.php" />
+        <option value="$PROJECT_DIR$/Vue/seo-audit-techniques/myTechniqueCard.php" />
+        <option value="$PROJECT_DIR$/Vue/seo-serp/mySerpCard.php" />
+        <option value="$PROJECT_DIR$/Vue/seo_accompagnement/myAccommpagement.php" />
+        <option value="$PROJECT_DIR$/Vue/sea/mySeaHome.php" />
+        <option value="$PROJECT_DIR$/Vue/seo_wordpress/mySeoWordpress.php" />
+        <option value="$PROJECT_DIR$/Controleur/Frontend/tarifControleur.php" />
+        <option value="$PROJECT_DIR$/Vue/seo_tarif/myTarifHome.php" />
+        <option value="$PROJECT_DIR$/Vue/seo_tarif/myTarifSlogan.php" />
+        <option value="$PROJECT_DIR$/Vue/seo_tarif/myTarifFooter.php" />
+        <option value="$PROJECT_DIR$/Vue/header/ribbon2.php" />
+        <option value="$PROJECT_DIR$/Vue/header/Header.php" />
+        <option value="$PROJECT_DIR$/Web/css/styleNav.css" />
+        <option value="$PROJECT_DIR$/Web/css/styleMenuToogle.css" />
+        <option value="$PROJECT_DIR$/Web/css/styleNavCodePen.css" />
+        <option value="$PROJECT_DIR$/Vue/Home/myCardMultAbsolute.php" />
+        <option value="$PROJECT_DIR$/Web/css/styleGeneriqueWP.css" />
+        <option value="$PROJECT_DIR$/Web/js/scrollHPC.js" />
+        <option value="$PROJECT_DIR$/Web/js/scrollHPCparallax.js" />
+        <option value="$PROJECT_DIR$/Vue/Home/accueil.html.php" />
+        <option value="$PROJECT_DIR$/Vue/header/ribbon.php" />
+        <option value="$PROJECT_DIR$/Vue/Home/myRevendeurs.php" />
+        <option value="$PROJECT_DIR$/Web/css/styleSliderRendeurs.css" />
+        <option value="$PROJECT_DIR$/Vue/Home/myHomeOfficeEspace.php" />
+        <option value="$PROJECT_DIR$/Vue/Home/mySliderRevendeurs.php" />
+        <option value="$PROJECT_DIR$/Vue/footer.php" />
+        <option value="$PROJECT_DIR$/Vue/footer/myFooter.php" />
+        <option value="$PROJECT_DIR$/Vue/footer/myFooterBlock1_3cols.php" />
+        <option value="$PROJECT_DIR$/Vue/header/topNav.php" />
+        <option value="$PROJECT_DIR$/Web/css/styleRibbon.css" />
+        <option value="$PROJECT_DIR$/Vue/layout.html.php" />
+        <option value="$PROJECT_DIR$/Web/css/styleGenerique.css" />
+        <option value="$PROJECT_DIR$/Web/css/style.css" />
+        <option value="$PROJECT_DIR$/Vue/Home/myCardMult.php" />
+        <option value="$PROJECT_DIR$/Vue/Home/myCard.php" />
+        <option value="$PROJECT_DIR$/Vue/Home/myHomeContent.php" />
+        <option value="$PROJECT_DIR$/Vue/Home/myCardMetier.php" />
+        <option value="$PROJECT_DIR$/Vue/Home/myCardCms.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="voisin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voisin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="voisin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voisin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Vue" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="voisin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="voisin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Vue" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Home" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2240a7ab-2901-45cc-b903-5aa6ff0b7a95" name="Default" comment="" />
+      <created>1530858738819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530858738819</updated>
+      <workItem from="1530858740613" duration="11111000" />
+      <workItem from="1530944071307" duration="12393000" />
+      <workItem from="1531034038940" duration="23309000" />
+      <workItem from="1531112500838" duration="13585000" />
+      <workItem from="1531204873192" duration="15132000" />
+      <workItem from="1531289053067" duration="13101000" />
+      <workItem from="1531317409316" duration="12000" />
+      <workItem from="1531320736095" duration="1217000" />
+      <workItem from="1531375982323" duration="3336000" />
+      <workItem from="1531380658754" duration="11758000" />
+      <workItem from="1531458608565" duration="961000" />
+      <workItem from="1531488393620" duration="1463000" />
+      <workItem from="1531550604178" duration="13889000" />
+      <workItem from="1531590127958" duration="9800000" />
+      <workItem from="1531601215303" duration="1461000" />
+      <workItem from="1531633719359" duration="9404000" />
+      <workItem from="1531720261950" duration="13000" />
+      <workItem from="1531720598797" duration="17131000" />
+      <workItem from="1531744105171" duration="134000" />
+      <workItem from="1531744277451" duration="3937000" />
+      <workItem from="1531754235840" duration="10095000" />
+      <workItem from="1531806145077" duration="27458000" />
+      <workItem from="1531892458657" duration="24371000" />
+      <workItem from="1531977443551" duration="25715000" />
+      <workItem from="1532070226894" duration="12549000" />
+      <workItem from="1532090876443" duration="1203000" />
+      <workItem from="1532107300279" duration="2553000" />
+      <workItem from="1532152580252" duration="9015000" />
+      <workItem from="1532237828300" duration="1568000" />
+      <workItem from="1532333275371" duration="4440000" />
+      <workItem from="1532409163734" duration="5836000" />
+      <workItem from="1532446109203" duration="1909000" />
+      <workItem from="1532449975106" duration="619000" />
+      <workItem from="1532496312633" duration="14141000" />
+      <workItem from="1532582071937" duration="34900000" />
+      <workItem from="1532667483211" duration="2718000" />
+      <workItem from="1532762705818" duration="9708000" />
+      <workItem from="1532883561393" duration="5022000" />
+      <workItem from="1532932085269" duration="15728000" />
+      <workItem from="1533099663880" duration="11300000" />
+      <workItem from="1533193451606" duration="2930000" />
+      <workItem from="1533276469794" duration="4473000" />
+      <workItem from="1533364494504" duration="618000" />
+      <workItem from="1533447009017" duration="12542000" />
+      <workItem from="1533539023242" duration="1415000" />
+      <workItem from="1533626714062" duration="5198000" />
+      <workItem from="1533705935605" duration="5615000" />
+      <workItem from="1533798634212" duration="706000" />
+      <workItem from="1533979565455" duration="1265000" />
+      <workItem from="1534566914041" duration="17307000" />
+      <workItem from="1534658377684" duration="3181000" />
+      <workItem from="1535134567378" duration="4019000" />
+      <workItem from="1535180463139" duration="11239000" />
+      <workItem from="1535202853888" duration="12000" />
+      <workItem from="1535202962171" duration="8520000" />
+      <workItem from="1535264426392" duration="10387000" />
+      <workItem from="1535348782800" duration="13260000" />
+      <workItem from="1535428718812" duration="3692000" />
+      <workItem from="1535481991019" duration="4184000" />
+      <workItem from="1535521809613" duration="350000" />
+      <workItem from="1535523739169" duration="2080000" />
+      <workItem from="1535608412963" duration="2158000" />
+      <workItem from="1535787344538" duration="8989000" />
+      <workItem from="1536037980603" duration="20209000" />
+      <workItem from="1536129914278" duration="10234000" />
+      <workItem from="1536213484364" duration="16179000" />
+      <workItem from="1536297166485" duration="6593000" />
+      <workItem from="1536384714817" duration="7694000" />
+      <workItem from="1536475823687" duration="19844000" />
+      <workItem from="1536556622648" duration="381000" />
+      <workItem from="1536557505206" duration="40855000" />
+      <workItem from="1536643437284" duration="20933000" />
+      <workItem from="1536728590833" duration="1198000" />
+      <workItem from="1536817432329" duration="12879000" />
+      <workItem from="1536856580339" duration="2153000" />
+      <workItem from="1536900649806" duration="41194000" />
+      <workItem from="1536961081435" duration="739000" />
+      <workItem from="1536989469341" duration="13664000" />
+      <workItem from="1537074748576" duration="16924000" />
+      <workItem from="1537246260021" duration="29516000" />
+      <workItem from="1537324393312" duration="17911000" />
+      <workItem from="1537367504177" duration="3341000" />
+      <workItem from="1537422321371" duration="25810000" />
+      <workItem from="1537504498404" duration="28558000" />
+      <workItem from="1537588751850" duration="27125000" />
+      <workItem from="1537677235124" duration="27567000" />
+      <workItem from="1537728954107" duration="10000" />
+      <workItem from="1537729006855" duration="34000" />
+      <workItem from="1537764725113" duration="31400000" />
+      <workItem from="1537848350749" duration="1666000" />
+      <workItem from="1537851581626" duration="40409000" />
+      <workItem from="1537937135979" duration="15866000" />
+      <workItem from="1538021712910" duration="41113000" />
+      <workItem from="1538107126415" duration="20655000" />
+      <workItem from="1538130989404" duration="668000" />
+      <workItem from="1538131920429" duration="22713000" />
+      <workItem from="1538195397714" duration="39061000" />
+      <workItem from="1538281320763" duration="27183000" />
+      <workItem from="1538370283434" duration="26090000" />
+      <workItem from="1538450845040" duration="23955000" />
+      <workItem from="1538537841579" duration="603000" />
+      <workItem from="1538623586809" duration="26490000" />
+      <workItem from="1538712112594" duration="1081000" />
+      <workItem from="1538800988552" duration="31406000" />
+      <workItem from="1538893035732" duration="6665000" />
+      <workItem from="1538969845183" duration="16428000" />
+      <workItem from="1539055857161" duration="17063000" />
+      <workItem from="1539145207272" duration="34216000" />
+      <workItem from="1539231312640" duration="6393000" />
+      <workItem from="1539240904765" duration="605000" />
+      <workItem from="1539246277329" duration="16457000" />
+      <workItem from="1539279391216" duration="422000" />
+      <workItem from="1539318357877" duration="38918000" />
+      <workItem from="1539405555702" duration="15250000" />
+      <workItem from="1539485226979" duration="23276000" />
+      <workItem from="1539556002503" duration="1541000" />
+      <workItem from="1539580359108" duration="9447000" />
+      <workItem from="1539660936512" duration="20539000" />
+      <workItem from="1539746929780" duration="11525000" />
+      <workItem from="1539837959632" duration="617000" />
+      <workItem from="1539870320065" duration="2810000" />
+      <workItem from="1540091943709" duration="11795000" />
+      <workItem from="1540178513633" duration="23955000" />
+      <workItem from="1540218909654" duration="1643000" />
+      <workItem from="1540267303976" duration="16201000" />
+      <workItem from="1540303446980" duration="1619000" />
+      <workItem from="1540628736963" duration="880000" />
+      <workItem from="1540650505250" duration="7021000" />
+      <workItem from="1540693389825" duration="2332000" />
+      <workItem from="1540709814301" duration="1216000" />
+      <workItem from="1540720578816" duration="3308000" />
+      <workItem from="1540724713186" duration="15000" />
+      <workItem from="1540742662430" duration="1501000" />
+      <workItem from="1540744747355" duration="6961000" />
+      <workItem from="1540784268699" duration="25772000" />
+      <workItem from="1540830205561" duration="7220000" />
+      <workItem from="1540877352030" duration="615000" />
+      <workItem from="1540962613982" duration="15763000" />
+      <workItem from="1541050812630" duration="15563000" />
+      <workItem from="1541087651201" duration="9289000" />
+      <workItem from="1541133823671" duration="21426000" />
+      <workItem from="1541169680259" duration="609000" />
+      <workItem from="1541221571805" duration="10303000" />
+      <workItem from="1541310959486" duration="16236000" />
+      <workItem from="1541397136872" duration="26775000" />
+      <workItem from="1541478737735" duration="23102000" />
+      <workItem from="1541566196969" duration="40661000" />
+      <workItem from="1541649230889" duration="10350000" />
+      <workItem from="1541738674976" duration="16854000" />
+      <workItem from="1541824621324" duration="17751000" />
+      <workItem from="1541911075283" duration="19268000" />
+      <workItem from="1541999730008" duration="9542000" />
+      <workItem from="1542085012064" duration="7084000" />
+      <workItem from="1542170883295" duration="31999000" />
+      <workItem from="1542224667330" duration="475000" />
+      <workItem from="1542259045606" duration="8337000" />
+      <workItem from="1542345373438" duration="23829000" />
+      <workItem from="1542430617487" duration="17151000" />
+      <workItem from="1542521392193" duration="2234000" />
+      <workItem from="1542537965073" duration="25000" />
+      <workItem from="1542602040327" duration="596000" />
+      <workItem from="1542706175954" duration="9041000" />
+      <workItem from="1542952547300" duration="16897000" />
+      <workItem from="1543040670711" duration="17114000" />
+      <workItem from="1543123617215" duration="3352000" />
+      <workItem from="1543213294874" duration="29935000" />
+      <workItem from="1543296877826" duration="30929000" />
+      <workItem from="1543383140966" duration="1461000" />
+      <workItem from="1543471642247" duration="18321000" />
+      <workItem from="1543557481870" duration="6011000" />
+      <workItem from="1543642729854" duration="59000" />
+      <workItem from="1543657276819" duration="631000" />
+      <workItem from="1543736714563" duration="13153000" />
+      <workItem from="1543818808495" duration="8287000" />
+      <workItem from="1544522663704" duration="595000" />
+      <workItem from="1545201316396" duration="7334000" />
+      <workItem from="1545299652865" duration="1447000" />
+      <workItem from="1546070741350" duration="3944000" />
+      <workItem from="1546156517647" duration="594000" />
+      <workItem from="1546326793024" duration="602000" />
+      <workItem from="1546935972734" duration="18948000" />
+      <workItem from="1547009847816" duration="5908000" />
+      <workItem from="1547100485711" duration="22417000" />
+      <workItem from="1547186901267" duration="31515000" />
+      <workItem from="1547229879468" duration="38000" />
+      <workItem from="1547273598988" duration="15578000" />
+      <workItem from="1547357882613" duration="19992000" />
+      <workItem from="1547443146241" duration="23154000" />
+      <workItem from="1547530150239" duration="22715000" />
+      <workItem from="1547630623578" duration="16590000" />
+      <workItem from="1547703810112" duration="3908000" />
+      <workItem from="1547713034744" duration="10450000" />
+      <workItem from="1547789896895" duration="4725000" />
+      <workItem from="1547806796071" duration="9052000" />
+      <workItem from="1547874594458" duration="13913000" />
+      <workItem from="1547959481127" duration="9688000" />
+      <workItem from="1548048283162" duration="9132000" />
+      <workItem from="1548062802686" duration="15855000" />
+      <workItem from="1548135842472" duration="26586000" />
+      <workItem from="1548220259324" duration="25596000" />
+      <workItem from="1548309774559" duration="6212000" />
+      <workItem from="1548402266217" duration="594000" />
+      <workItem from="1548428139568" duration="6591000" />
+      <workItem from="1548482388330" duration="4479000" />
+      <workItem from="1548525140647" duration="1505000" />
+      <workItem from="1548569199272" duration="4427000" />
+      <workItem from="1548655149628" duration="6854000" />
+      <workItem from="1548685115997" duration="2445000" />
+      <workItem from="1548739270318" duration="4782000" />
+      <workItem from="1548769879491" duration="1158000" />
+      <workItem from="1548772929305" duration="13000" />
+      <workItem from="1548774443787" duration="622000" />
+      <workItem from="1548840429591" duration="2209000" />
+      <workItem from="1548909881262" duration="4080000" />
+      <workItem from="1549002714204" duration="3577000" />
+      <workItem from="1549015295937" duration="594000" />
+      <workItem from="1549173383035" duration="1662000" />
+      <workItem from="1549256353368" duration="4713000" />
+      <workItem from="1549347566058" duration="616000" />
+      <workItem from="1549368078602" duration="2270000" />
+      <workItem from="1549436531869" duration="4327000" />
+      <workItem from="1549519793991" duration="609000" />
+      <workItem from="1549608155727" duration="4062000" />
+      <workItem from="1550043180592" duration="6311000" />
+      <workItem from="1550119803246" duration="17544000" />
+      <workItem from="1550155343447" duration="7250000" />
+      <workItem from="1550214176536" duration="721000" />
+      <workItem from="1550303403378" duration="597000" />
+      <workItem from="1550597313441" duration="616000" />
+      <workItem from="1550828189136" duration="3027000" />
+      <workItem from="1551829715315" duration="2755000" />
+      <workItem from="1551854613255" duration="2493000" />
+      <workItem from="1553665220241" duration="716000" />
+      <workItem from="1553759450084" duration="279000" />
+      <workItem from="1557154550971" duration="689000" />
+      <workItem from="1557209317318" duration="2682000" />
+      <workItem from="1558160576469" duration="67000" />
+      <workItem from="1558160953997" duration="18036000" />
+      <workItem from="1558245112189" duration="7728000" />
+      <workItem from="1558414288547" duration="12863000" />
+      <workItem from="1558501893533" duration="21022000" />
+      <workItem from="1558584416816" duration="13098000" />
+      <workItem from="1558674296729" duration="601000" />
+      <workItem from="1558757893461" duration="7701000" />
+      <workItem from="1558845286917" duration="1196000" />
+      <workItem from="1558933728485" duration="4621000" />
+      <workItem from="1559017793896" duration="19340000" />
+      <workItem from="1559455765375" duration="898000" />
+      <workItem from="1559541888964" duration="684000" />
+      <workItem from="1559635193236" duration="1122000" />
+      <workItem from="1560229817527" duration="2652000" />
+      <workItem from="1560402312676" duration="137000" />
+      <workItem from="1560412151768" duration="9244000" />
+      <workItem from="1560437076393" duration="4000" />
+      <workItem from="1560485331892" duration="13506000" />
+      <workItem from="1560692280385" duration="16182000" />
+      <workItem from="1560747446096" duration="831000" />
+      <workItem from="1560861581132" duration="3668000" />
+      <workItem from="1560866086018" duration="8895000" />
+      <workItem from="1561093276969" duration="5340000" />
+      <workItem from="1563340227052" duration="4814000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2697567000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14712153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18496802" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Vue/Famille/myFamilleSlogan.php</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Controleur/Backend/EditoControleur.php</url>
+          <line>119</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Vue/seo-audit-techniques/myFacteursTechnique.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="27" column="129" lean-forward="true" selection-start-line="27" selection-start-column="129" selection-end-line="27" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/seo_fichiers/myFichiers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/seo-serp/mySerpCard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="719">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/seo-serp/mySerp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/seo_accompagnement/myAccommpagement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="78" column="18" lean-forward="true" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/sea/mySeaHome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/seo-audit-offpage/myFacteursOffPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="92" lean-forward="false" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/seo_wordpress/mySeoWordpress.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controleur/Frontend/tarifControleur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/seo_tarif/myTarifHome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/seo_tarif/myTarif.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/seo_tarif/myTarifSlogan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/seo_tarif/myTarifFooter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/seo/mySeoDefinition.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/header/ribbon2.php" />
+    <entry file="file://$PROJECT_DIR$/Web/css/styleNavCodePen - Copie.css" />
+    <entry file="file://$PROJECT_DIR$/Vue/Home/myHomeOfficeEspace - Copie.php" />
+    <entry file="file://$PROJECT_DIR$/Vue/Home/myCardMult - Copie.php" />
+    <entry file="file://$PROJECT_DIR$/Web/css/style - Copie.css" />
+    <entry file="file://$PROJECT_DIR$/Vue/Home/myCardMultAbsolute.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="60" column="10" lean-forward="false" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/css/styleGeneriqueWP.css" />
+    <entry file="file://$PROJECT_DIR$/Web/css/styleQW.css" />
+    <entry file="file://$PROJECT_DIR$/Web/css/styleNav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="58" lean-forward="true" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/css/styleMenuToogle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1059">
+          <caret line="64" column="15" lean-forward="true" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/css/styleNavCodePen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1780">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/js/hamburgerRibbon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/js/scrollHPC.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/formation_google_ads/myFgaHome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/js/scrollHPCparallax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Home/myRevendeurs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="62" lean-forward="false" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Home/accueil.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Home/myHomeOfficeEspace.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Home/mySliderRevendeurs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/css/styleSliderRendeurs.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/css/styleConsultants.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/footer/Footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/footer/myFooter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="67" lean-forward="true" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/footer/myFooterBlock1_3cols.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="109" column="30" lean-forward="true" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/header/Header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/header/ribbon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="91" column="45" lean-forward="false" selection-start-line="91" selection-start-column="45" selection-end-line="91" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/css/styleRibbon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="188" column="30" lean-forward="true" selection-start-line="188" selection-start-column="30" selection-end-line="188" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/layout.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="102" lean-forward="false" selection-start-line="27" selection-start-column="102" selection-end-line="27" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/header/topNav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/css/styleGenerique.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3332">
+          <caret line="196" column="21" lean-forward="false" selection-start-line="196" selection-start-column="21" selection-end-line="196" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="50" column="21" lean-forward="false" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Home/myCard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1563347151277" expanded="false" signature="1700:1779" ph="..." />
+            <marker date="1563347151277" expanded="false" signature="1957:2006" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Home/myHomeContent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Home/myCardMult.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Home/myCardMetier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1212">
+          <caret line="71" column="81" lean-forward="true" selection-start-line="71" selection-start-column="81" selection-end-line="71" selection-end-column="81" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <marker date="1563347632032" expanded="false" signature="195:336" ph="..." />
+            <marker date="1563347632032" expanded="false" signature="523:568" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue/Home/myCardCms.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
