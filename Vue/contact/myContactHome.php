@@ -4,7 +4,6 @@
     ?>
 </nav>
 <section class="content_degrade">
-
     <?php
     include __DIR__ . '/myContactSlogan.php';
     ?>
@@ -25,7 +24,6 @@
                 <input style="background-color: white; border-radius:10px;
     border:1px solid inherit;" type="text" name="nom" id="nom" placeholder="Nom*" />
             </div>
-
             <div class="contact_form">
                 <input style="background-color: white; border-radius:10px;
     border:1px solid inherit;" type="text" name="prenom" id="prenom" placeholder="Prénom*" /></br>
